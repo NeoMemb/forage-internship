@@ -1,0 +1,95 @@
+{
+  "workspaceFoldersFilePaths": [
+    "./"
+  ],
+  "symbols": [
+    {
+      "name": "App()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "./my-app/src/App.tsx",
+      "start": {
+        "line": 6,
+        "character": 0
+      },
+      "end": {
+        "line": 119,
+        "character": 1
+      }
+    },
+    {
+      "name": "count",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "./my-app/src/App.tsx",
+      "start": {
+        "line": 7,
+        "character": 9
+      },
+      "end": {
+        "line": 7,
+        "character": 14
+      }
+    },
+    {
+      "name": "setCount",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "./my-app/src/App.tsx",
+      "start": {
+        "line": 7,
+        "character": 16
+      },
+      "end": {
+        "line": 7,
+        "character": 24
+      }
+    }
+  ],
+  "activeFileDiagnostics": [],
+  "activeTextEditor": {
+    "selections": [
+      {
+        "anchor": {
+          "line": 0,
+          "character": 0
+        },
+        "active": {
+          "line": 0,
+          "character": 0
+        },
+        "isReversed": true
+      }
+    ],
+    "documentFilePath": "./my-app/src/main.tsx",
+    "visibleRanges": [
+      {
+        "start": {
+          "line": 0,
+          "character": 0
+        },
+        "end": {
+          "line": 10,
+          "character": 0
+        }
+      }
+    ],
+    "languageId": "typescriptreact"
+  },
+  "debugConsoleOutput": "",
+  "terminalBuffer": "⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙\r\nadded 152 packages, and audited 153 packages in 6m\r\n⠹\r\n⠹42 packages are looking for funding\r\n⠹  run `npm fund` for details\r\n⠹\r\nfound 0 vulnerabilities\r\n⠹\r\nforage-internship/Skyscanner/my-app on  master [?] via  v26.4.0 took 6m17s \r\n❯ npm install\rrm -rf node* package-lock.json\rnpm i\brun dev\r\n\r⠙⠹⠸⠼\r\n> my-app@0.0.0 dev\r\n> vite\r\n\r\n⠼\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n  VITE v8.1.3  ready in 2295 ms\r\n\r\n  ➜  Local:   http://localhost:5173/\r\n  ➜  Network: use --host to expose\r\n  ➜  press h + enter to show help\r\n",
+  "terminalLastCommand": {
+    "commandLine": "npm install",
+    "cwd": "./my-app",
+    "exitCode": 0,
+    "output": "\nadded 152 packages, and audited 153 packages in 6m\n\n42 packages are looking for funding\n  run `npm fund` for details\n\nfound 0 vulnerabilities\n"
+  },
+  "terminalSelection": "",
+  "terminalShellType": "node",
+  "repoContexts": [],
+  "notebookDocumentFilePaths": [],
+  "textDocumentFilePaths": [
+    "my-app/src/App.tsx",
+    "my-app/src/main.tsx"
+  ]
+}
